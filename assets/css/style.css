@@ -38,7 +38,7 @@ a {
 }
 
 a:hover {
-  color: #00fbff;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 40px;
 }
 #header .social-links a:hover {
-  background: #02b8bb;
+  background: #00fbff;
 }
 @media (max-width: 992px) {
   #header h1 {
