@@ -899,13 +899,14 @@ section .container {
 .contact .info-box .social-links a {
   font-size: 18px;
   display: inline-block;
-  color: #fff;
+  color: #00fbff;
   line-height: 1;
   margin-right: 12px;
   transition: 0.3s;
+  padding: 5px;
 }
 .contact .info-box .social-links a:hover {
-  color: #00fbff;
+  color: #fff;
 }
 .contact .php-email-form {
   padding: 30px;
